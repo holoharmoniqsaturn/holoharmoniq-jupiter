@@ -7,7 +7,11 @@ Code licence: choose one before publishing (MIT is a common choice for visualiza
 © 2026 HoloHarmoniq Ltd. · Science × Technology × Humanity
 
 Features
-	
+
+Accuracy and scope
+
+This is a visualization, not a scientific dataset.
+
 🪐 Juno Vision	Jupiter with a soft atmospheric glow, drifting among its moons
 🌋 Four Galilean worlds	Io, Europa, Ganymede and Callisto, each with a reconstructed surface and normal-mapped relief
 🔥 Io plume	A stylised volcanic plume rising from the limb
@@ -15,3 +19,8 @@ Features
 🛰️ Landing simulation	Pick a moon: approach, descent and a low flyover with a live HUD (altitude, orbital speed, position)
 ✨ 115 moons	The four giants in detail, the rest as a stylised swarm of small and irregular moons
 🏷️ Labels	Moon labels you can toggle
+
+Surface maps are artistic reconstructions inspired by the real moons, not mission imagery.
+Distances and sizes are stylised so that all bodies are visible at once.
+Figures shown in the HUD (radius, gravity, distance) are standard published values.
+The small-moon swarm is illustrative.
